@@ -1,0 +1,47 @@
+
+<div class="hidden md:block">
+        <div class="grid grid-cols-2 pt-12 pl-12 pb-10 pr-12 gap-11">
+            <div class="max-h-full relative">
+                <img class="object-cover w-full h-[25vw] cursor-pointer" src="/images/Kizu+Table+Lamp+White+Marble,+Small.jpg" alt="">
+            </div>
+            <div class="max-h-full">
+                <img class="object-cover w-full h-[25vw] cursor-pointer" src="/images/Hex-desert_heymat_05_larstornoe_liveberg_sofiebrovold.jpg" alt="">
+            </div>
+            <div class="max-h-full hover:">
+                <img class="object-cover w-full h-[25vw] cursor-pointer" src="/images/To+høye+Tind+1500+sofaer+og+S-bord_+Fora+Form.jpg" alt="">
+            </div>
+            <div class="max-h-full">
+                <img class="object-cover w-full h-[25vw] cursor-pointer" src="/images/Coil3.jpg" alt="">
+            </div>
+            <div class="max-h-full hover:">
+                <img class="object-cover w-full h-[25vw] cursor-pointer" src="/images/The_Dots.jpg" alt="">
+            </div>
+            <div class="max-h-full">
+                <img class="object-cover w-full h-[25vw] cursor-pointer" src="/images/Pinch-monstera.jpg" alt="">
+            </div>
+        </div>
+    </div>
+    <div id="#images" class="md:hidden">
+        <div class="grid grid-cols-1 pt-20 pl-7 pr-7 gap-5">
+            <div class="max-h-full relative">
+                <img class="object-cover w-full h-[36vw] cursor-pointer" src="/images/Kizu+Table+Lamp+White+Marble,+Small.jpg" alt="">
+            </div>
+            <div class="max-h-full">
+                <img class="object-cover w-full h-[36vw] cursor-pointer" src="/images/Hex-desert_heymat_05_larstornoe_liveberg_sofiebrovold.jpg" alt="">
+            </div>
+            <div class="max-h-full hover:">
+                <img class="object-cover w-full h-[36vw] cursor-pointer" src="/images/To+høye+Tind+1500+sofaer+og+S-bord_+Fora+Form.jpg" alt="">
+            </div>
+            <div class="max-h-full">
+                <img class="object-cover w-full h-[36vw] cursor-pointer" src="/images/Coil3.jpg" alt="">
+            </div>
+            <div class="max-h-full hover:">
+                <img class="object-cover w-full h-[36vw] cursor-pointer" src="/images/The_Dots.jpg" alt="">
+            </div>
+            <div class="max-h-full">
+                <img class="object-cover w-full h-[36vw] cursor-pointer" src="/images/Pinch-monstera.jpg" alt="">
+            </div>
+            <div></div>
+            <div></div>
+        </div>
+    </div>

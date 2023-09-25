@@ -1,0 +1,5 @@
+<div class="basis- inline-flex pt-[55px] pl-[50px]">
+        <div>
+        <img class="w-[100%] h-[1311px]" src="/images/Kizu+Table+Lamp+White+Marble,+Small.jpg">
+        </div>
+    </div>
